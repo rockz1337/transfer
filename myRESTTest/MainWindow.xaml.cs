@@ -33,7 +33,6 @@ namespace myRESTTest
             InitializeComponent();
         }
 
-        
 
         private void Anfrage(String funktion)
         {
